@@ -1,0 +1,5 @@
+Azlan - Database
+
+Mizan - Frontend
+
+Prem  - Backend
